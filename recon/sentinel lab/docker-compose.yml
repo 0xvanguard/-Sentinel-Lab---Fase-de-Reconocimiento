@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  victima-web:
+    image: bkimminich/juice-shop
+    ports:
+      - "3000:3000"
+  victima-linux:
+    image: tleemcjr/metasploitable2 # Esta versión suele ser más estable en Docker Hub
+    ports:
+      - "2222:22"

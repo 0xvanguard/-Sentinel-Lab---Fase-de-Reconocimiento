@@ -1,0 +1,10 @@
+{
+    "proyecto": "Sentinel Lab",
+    "fase": "Reconocimiento Inicial",
+    "fecha": "2026-02-17 21:23:41",
+    "host": "127.0.0.1",
+    "estado": "up",
+    "puertos_abiertos": [
+        3000
+    ]
+}
